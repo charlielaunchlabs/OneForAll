@@ -76,7 +76,7 @@ namespace OneForAll
 				 {
 					var b = (Button)sender;
 					var item = (LogContent)b.CommandParameter;
-					bool choice = await ((ContentPage)((ListView)((StackLayout)((StackLayout)b.ParentView)
+					bool choice = await ((ContentPage)((ListView)((StackLayout)((StackLayout)b.ParentView)//Wrong cast
 		   								.ParentView).ParentView).ParentView).DisplayAlert("Clicked",
 					                     item. Name + " button was clicked", "Yes","Connect");
 					 if (choice)

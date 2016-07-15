@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="iOS/OneForAll.iOS.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Droid/SQLiteService.cs">
+    <Files>
+      <File FileName="Droid/LoginPageRenderer.cs" Line="13" Column="2" />
+      <File FileName="iOS/LoginPageRenderer.cs" Line="24" Column="16" />
+      <File FileName="OneForAll/HomePage.cs" Line="74" Column="18" />
+      <File FileName="OneForAll/Data/RootObject.cs" Line="59" Column="35" />
+      <File FileName="iOS/Main.cs" Line="17" Column="1" />
+      <File FileName="Droid/SQLiteService.cs" Line="30" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.OneForAll.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.C3B3234B-BAE2-4A0E-8E64-FCE5772F4147" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.OneForAll.Droid PreferredExecutionTarget="Android.Nexus 4 (Jelly Bean)" />
+</Properties>
